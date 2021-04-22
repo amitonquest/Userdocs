@@ -1,4 +1,4 @@
-![logo](_media/slazzer-edit-image.png)
+![logo](/slazzer-edit-image.png)
 
 
 
